@@ -103,12 +103,6 @@ npx expo start
 | `mark_read` | `messages_read` | Mark messages as read |
 | — | `user_status` | Online/offline status |
 
-## Demo Credentials (after running `node seed.js`)
-
-- **Agent**: `agent@demo.com` / `password123`
-- **Buyer**: `buyer@demo.com` / `password123`
-
----
 
 ## Tech Stack
 
